@@ -5,7 +5,7 @@
 [NEWSAPI](https://newsapi.org/)
 
 
-How to run the application ?
+# How to run the application ?
 
 To use gnews api:
 
@@ -17,4 +17,4 @@ In same way for newsapi:
 `streamlit run newsapi.py`
 
 
-Don't forget Add your API_KEY in those files before starting the application.
+Don't forget to add your API_KEY in those files before starting the application.
